@@ -1,4 +1,4 @@
-#NP-Completo
+# NP-Completo
 
 ## Conceptos Claves
 
