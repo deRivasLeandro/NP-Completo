@@ -53,6 +53,8 @@ Un problema es NP-completo si **pertenece a NP** y es **NP-duro**. Algunos ejemp
 - **Problema de la Mochila (Knapsack Problem)**
 - **Problema del Camino Hamiltoniano (Hamiltonian Path)**
 
+![P, NP, NP-COMPLETO](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Complexity_classes_es.svg/260px-Complexity_classes_es.svg.png)
+
 ---
 
 ## Reducciones y Transformaciones
