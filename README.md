@@ -2,7 +2,7 @@
 
 ## Historia y Contexto
 
-El concepto de **NP-completitud** fue introducido en 1971 por **Stephen Cook** en su famoso **Teorema de Cook**, donde demostró que el problema **SAT** (Satisfacción Booleana) es NP-completo. A partir de este resultado, otros problemas fueron demostrados como NP-completos mediante **reducciones polinómicas**.
+El concepto de **NP-completo** fue introducido en 1971 por **Stephen Cook** en su famoso **Teorema de Cook**, donde demostró que el problema **SAT** (Satisfacción Booleana) es NP-completo. A partir de este resultado, otros problemas fueron demostrados como NP-completos mediante **reducciones polinómicas**.
 
 Los problemas NP-completos son relevantes porque aparecen en muchas aplicaciones prácticas y teóricas. Se cree ampliamente que **P ≠ NP**, lo que implica que no existen soluciones eficientes para estos problemas en el peor caso, aunque aún no se ha demostrado formalmente.
 
