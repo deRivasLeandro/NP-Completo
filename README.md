@@ -17,8 +17,7 @@ Un problema se considera **NP-completo** si cumple dos condiciones:
 1. **Pertenencia a NP**: Se puede verificar una solución dada en tiempo polinómico.
 2. **NP-duro**: Cualquier otro problema en NP puede ser reducido a este problema en tiempo polinómico.
 
-Los problemas **NP-duros** (también llamados **NP-hard**) son aquellos al menos tan difíciles como los problemas más difíciles de NP, pero no necesariamente pertenecen a NP.
-
+Los problemas **NP-duros** (también llamados **NP-hard**) son aquellos al menos tan difíciles como los problemas más difíciles de NP.
 Si se encontrara un algoritmo polinómico para resolver cualquier problema NP-completo, significaría que **P = NP**, lo que implicaría que todos los problemas en NP pueden resolverse eficientemente.
 
 --
